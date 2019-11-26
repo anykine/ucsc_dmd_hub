@@ -1,0 +1,6 @@
+track DMDexonsHg38
+bigDataUrl dmd_genomic_exons_hg38.bigbed
+shortLabel DMD exons Hg38
+longLabel DMD exon numbers
+type bigBed 4
+visibility full

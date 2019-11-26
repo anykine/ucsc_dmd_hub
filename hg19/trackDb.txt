@@ -1,0 +1,7 @@
+track DMDexonsHg19
+bigDataUrl dmd_exons_hg19.bigbed
+shortLabel DMD exons Hg19
+longLabel DMD exon numbers
+type bigBed 6
+useScore on
+visibility full

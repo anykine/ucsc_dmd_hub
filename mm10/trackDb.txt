@@ -1,0 +1,6 @@
+track DMDexonsMm10
+bigDataUrl dmd_exons_mm10.bigbed
+shortLabel DMD exons mm10
+longLabel DMD exon numbers
+type bigBed 4
+visibility full

@@ -1,0 +1,6 @@
+hub DMDexons
+shortLabel DMDexons
+longLabel DMD exon numbers
+genomesFile genomes.txt
+email rtwang@mednet.ucla.edu
+descriptionUrl DMDexonsHg19.html
