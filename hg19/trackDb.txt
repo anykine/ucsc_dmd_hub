@@ -11,7 +11,7 @@ track DMDintrons
 bigDataUrl dmd_genomic_introns_hg19.bigbed
 shortLabel DMD 427m introns
 longLabel DMD 427m intron numbers
-type bigBed 4
+type bigBed 5
 useScore 1
 visibility pack
 
@@ -19,6 +19,14 @@ track DMDlncRNAH
 bigDataUrl noncoding_genomic_hg19.bigbed
 shortLabel DMD noncoding transcripts
 longLabel DMD locus noncoding lncRNAs
-type bigBed 4
+type bigBed 5
+useScore 1
+visibility pack
+
+track DMDpromoters
+bigDataUrl dmd_genomic_promoters_hg19.bigbed
+shortLabel DMD known isoform promoteres
+longLabel DMD locus known isoform promoters
+type bigBed 5
 useScore 1
 visibility pack
